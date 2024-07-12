@@ -1,2 +1,19 @@
 [runner]
 magicEnabled = false
+
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#3d9fdb"
+
+# Background color for the main content area.
+backgroundColor = "#db3da1"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor =
+
+# Color used for almost all text.
+textColor = "#97db3d"
+
+# Font family for all text in the app, except code blocks. One of "sans serif",
+# "serif", or "monospace".
+font = "Arial"
